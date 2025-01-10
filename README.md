@@ -1,2 +1,4 @@
 # GettingStarted
 My Firsts......
+10th January I created my first Git Repository.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
